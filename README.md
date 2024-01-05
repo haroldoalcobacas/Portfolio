@@ -2,7 +2,7 @@
 
 ### Portifolio containing my Data Science Projects
 
-## 📝 Vendas Por Canal De Publicidade - Previsão Quantitativa - ![Project 02](https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade)
+## 📝 Vendas Por Canal De Publicidade - Previsão Quantitativa - ![Project 02](https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade/blob/main)
 *link para repositório
 
 *Prática de Machine Learning com SKlearn - Análise de vendas por canal de publicidade.
@@ -12,7 +12,7 @@
 ###  Objetivo
 * Realizar uma previsão quantitativa do número de vendas pelo valor investido em de canais de publicidade.
 * O conjunto de dados conta com 200 observações e 4 varíaveis sendo TV, Rádio, Newspaper e Sales.
-![Canais de Publicidade](RL_CanaisDePublicidade.PNG)
+![RL_CanaisDePublicidade.PNG](https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade/blob/main/RL_CanaisDePublicidade.PNG)
 
 ###  Métodos Utilizados
 

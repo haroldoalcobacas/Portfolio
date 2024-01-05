@@ -2,7 +2,7 @@
 
 ### Portifolio containing my Data Science Projects
 
-## 📝 Vendas Por Canal De Publicidade - Previsão Quantitativa - ![Project 02](https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade/blob/main)
+## 📝 Vendas Por Canal De Publicidade - Previsão Quantitativa - ![Project 02](https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade)
 *link para repositório
 
 *Prática de Machine Learning com SKlearn - Análise de vendas por canal de publicidade.

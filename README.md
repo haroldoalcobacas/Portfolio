@@ -2,7 +2,7 @@
 
 ### Portifolio containing my Data Science Projects
 
-## 📝 Vendas Por Canal De Publicidade - Previsão Quantitativa - ![Project 02]("https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade") 
+## 📝 Vendas Por Canal De Publicidade - Previsão Quantitativa - ![Project 02](https://github.com/haroldoalcobacas/VendasPorCanalDePublicidade) 
 *link para repositório  
 
 *Prática de Machine Learning com SKlearn - Análise de vendas por canal de publicidade.
@@ -23,7 +23,3 @@
   - Mean squared error (MSE) e;
   - Root Mean squared error (RMSE).
     
-###  Resultados ( teste das variáveis e análise da performance do modelo )
-* Para analise do resultado foi realizado o teste das 3 variáveis para identicação da suas contribuições para o modelo.
-* Analisando os testes entre varíaveis, é possivel observar que a varíavel "newspaper" influencia de forma negativa a perfomance dos testes e tendo como melhor performance o teste com as váriáveis TV e Radio, gerando um erro de 1,5821 por unidade investida em publicidade.
-
